@@ -1,4 +1,4 @@
-![Screenshot](9_Handwashing_Effect_on_dr_hist.jpg)
+![Screenshot](day-79-Childbirth_Handwashing.png)
 
 # The Tragic Discovery of Handwashing: t-Tests & Distributions. Analyses data from the 1840's and introduce t-tests and distributions to corroborate findings.
 - 👋 Hi, I’m @WilliamSpanfelner
